@@ -1,5 +1,5 @@
 # Project-Lab-Susenas
 
-Project Lab tentang analisis data dari hasil Survei Sosial Ekonomi Nasional tahun 2012-2013.
+Project Lab tentang analisis data Partisipasi Sekolah dari penduduk yang berusia antara 5 sampai dengan 24 tahun. Data diperoleh dari hasil Survei Sosial Ekonomi Nasional tahun 2012.
 
 Pacmann.ai
